@@ -1,0 +1,7 @@
+C:\Users\gugol\source\repos\heron2024L2\heron2024L2\bin\Debug\heron2024L2.exe.config
+C:\Users\gugol\source\repos\heron2024L2\heron2024L2\bin\Debug\heron2024L2.exe
+C:\Users\gugol\source\repos\heron2024L2\heron2024L2\bin\Debug\heron2024L2.pdb
+C:\Users\gugol\source\repos\heron2024L2\heron2024L2\obj\Debug\heron2024L2.csprojAssemblyReference.cache
+C:\Users\gugol\source\repos\heron2024L2\heron2024L2\obj\Debug\heron2024L2.csproj.CoreCompileInputs.cache
+C:\Users\gugol\source\repos\heron2024L2\heron2024L2\obj\Debug\heron2024L2.exe
+C:\Users\gugol\source\repos\heron2024L2\heron2024L2\obj\Debug\heron2024L2.pdb

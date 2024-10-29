@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GajzdhaBPxUmdqDAnjs/om+uJNHRY4trtRN2LPLuw9lgoPHUbKiw2SPv73/y+KiKsGr7AF8G7zwY/uUxDpyjbA==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/consoleapp20.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

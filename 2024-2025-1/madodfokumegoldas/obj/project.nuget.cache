@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "idg9BawGrD54RwZ+m+3RouAKjsNJZaZiXtQ+pwLyWceqZ3rt/nbWandNNw7wEg0kiHB9oEciVE2J2xXkNxIXkQ==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/madodfokumegoldas.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

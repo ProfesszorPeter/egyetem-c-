@@ -1,0 +1,14 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/bin/Debug/net8.0/balaton
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/bin/Debug/net8.0/balaton.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/bin/Debug/net8.0/balaton.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/bin/Debug/net8.0/balaton.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/bin/Debug/net8.0/balaton.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/balaton.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/balaton.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/balaton.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/balaton.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/balaton.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/refint/balaton.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/balaton.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/balaton.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/balaton/obj/Debug/net8.0/ref/balaton.dll

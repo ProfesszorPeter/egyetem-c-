@@ -1,0 +1,14 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/bin/Debug/net8.0/madodfokumegoldas
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/bin/Debug/net8.0/madodfokumegoldas.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/bin/Debug/net8.0/madodfokumegoldas.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/bin/Debug/net8.0/madodfokumegoldas.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/bin/Debug/net8.0/madodfokumegoldas.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/madodfokumegoldas.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/madodfokumegoldas.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/madodfokumegoldas.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/madodfokumegoldas.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/madodfokumegoldas.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/refint/madodfokumegoldas.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/madodfokumegoldas.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/madodfokumegoldas.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/madodfokumegoldas/obj/Debug/net8.0/ref/madodfokumegoldas.dll

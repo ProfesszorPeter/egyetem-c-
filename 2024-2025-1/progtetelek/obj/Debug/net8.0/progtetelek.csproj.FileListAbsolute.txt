@@ -1,0 +1,14 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/progtetelek.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/progtetelek.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/progtetelek.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/progtetelek.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/bin/Debug/net8.0/progtetelek
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/bin/Debug/net8.0/progtetelek.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/bin/Debug/net8.0/progtetelek.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/bin/Debug/net8.0/progtetelek.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/bin/Debug/net8.0/progtetelek.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/progtetelek.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/refint/progtetelek.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/progtetelek.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/progtetelek.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/obj/Debug/net8.0/ref/progtetelek.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y1NZQynLAp3Agl3tUY0h4aQKm6ca5zqO/xQZ52zPZ0uzn0zhkM7j9FuMNClLhg29lZ74T8bvN6BdwFPYuh+Rxg==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/heron/heron.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

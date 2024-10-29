@@ -1,0 +1,14 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/bin/Debug/net8.0/matrax-gyakorlo
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/bin/Debug/net8.0/matrax-gyakorlo.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/bin/Debug/net8.0/matrax-gyakorlo.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/bin/Debug/net8.0/matrax-gyakorlo.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/bin/Debug/net8.0/matrax-gyakorlo.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/matrax-gyakorlo.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/matrax-gyakorlo.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/matrax-gyakorlo.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/matrax-gyakorlo.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/matrax-gyakorlo.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/refint/matrax-gyakorlo.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/matrax-gyakorlo.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/matrax-gyakorlo.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/obj/Debug/net8.0/ref/matrax-gyakorlo.dll

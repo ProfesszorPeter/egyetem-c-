@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vPVePqYqWax6ewa9e2OCsUzT0unwRQ4tg0j32ey3YCeVoYThyk7SKIvUncy181r2k2k+dHremsomM/Mf11Tavw==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/balaton/balaton.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

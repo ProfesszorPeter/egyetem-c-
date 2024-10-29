@@ -1,0 +1,14 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/bin/Debug/net8.0/pi
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/bin/Debug/net8.0/pi.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/bin/Debug/net8.0/pi.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/bin/Debug/net8.0/pi.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/bin/Debug/net8.0/pi.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/pi.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/pi.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/pi.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/pi.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/pi.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/refint/pi.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/pi.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/pi.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/pi/obj/Debug/net8.0/ref/pi.dll

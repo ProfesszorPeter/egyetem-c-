@@ -1,0 +1,14 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/bin/Debug/net8.0/heron
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/bin/Debug/net8.0/heron.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/bin/Debug/net8.0/heron.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/bin/Debug/net8.0/heron.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/bin/Debug/net8.0/heron.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/heron.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/heron.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/heron.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/heron.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/heron.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/refint/heron.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/heron.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/heron.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/heron/obj/Debug/net8.0/ref/heron.dll

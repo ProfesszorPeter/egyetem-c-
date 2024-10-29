@@ -1,0 +1,14 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/bin/Debug/net8.0/matrix
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/bin/Debug/net8.0/matrix.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/bin/Debug/net8.0/matrix.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/bin/Debug/net8.0/matrix.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/bin/Debug/net8.0/matrix.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/matrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/matrix.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/matrix.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/matrix.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/matrix.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/refint/matrix.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/matrix.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/matrix.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/Debug/net8.0/ref/matrix.dll

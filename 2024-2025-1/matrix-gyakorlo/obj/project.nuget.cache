@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eRJ73hcO5rpBlPFy7m+Cb6oNfTkSFbO8aPr9J7e47EeZEUHBpf2g5TdTT63cF5f02SJ2TM1nw/kG4D0lt+9rTg==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/matrix-gyakorlo/matrax-gyakorlo.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

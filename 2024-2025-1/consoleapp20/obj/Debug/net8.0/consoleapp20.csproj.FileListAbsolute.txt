@@ -1,0 +1,14 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/bin/Debug/net8.0/consoleapp20
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/bin/Debug/net8.0/consoleapp20.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/bin/Debug/net8.0/consoleapp20.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/bin/Debug/net8.0/consoleapp20.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/bin/Debug/net8.0/consoleapp20.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/consoleapp20.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/consoleapp20.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/consoleapp20.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/consoleapp20.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/consoleapp20.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/refint/consoleapp20.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/consoleapp20.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/consoleapp20.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/consoleapp20/obj/Debug/net8.0/ref/consoleapp20.dll
