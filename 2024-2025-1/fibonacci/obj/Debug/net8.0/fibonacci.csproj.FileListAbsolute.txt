@@ -1,0 +1,15 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/bin/Debug/net8.0/fibonacci
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/bin/Debug/net8.0/fibonacci.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/bin/Debug/net8.0/fibonacci.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/bin/Debug/net8.0/fibonacci.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/bin/Debug/net8.0/fibonacci.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/fibonacci.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/fibonacci.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/fibonacci.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/fibonacci.sourcelink.json
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/fibonacci.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/refint/fibonacci.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/fibonacci.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/fibonacci.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/obj/Debug/net8.0/ref/fibonacci.dll

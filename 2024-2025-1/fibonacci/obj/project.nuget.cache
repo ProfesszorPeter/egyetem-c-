@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mLEKv1N29hLI0pMdoiPaHClzWX8E+/s9qRKLzhSE8pkYTOqDN0iXerK0mwmNnCYpeN+aPP0t8h+AyCR+k6gFFQ==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/fibonacci/fibonacci.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

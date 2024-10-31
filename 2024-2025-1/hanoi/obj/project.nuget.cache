@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVAsTUAxfZK7wPbo0cRMLsaK2WAfrwAfqDQ7TGVKwSDkkkNWHyfuFwA/5hNzzVBv8HJ5hKYuVwoRMb5U6Rt+Ag==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/hanoi.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/bin/Debug/net8.0/hanoi
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/bin/Debug/net8.0/hanoi.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/bin/Debug/net8.0/hanoi.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/bin/Debug/net8.0/hanoi.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/bin/Debug/net8.0/hanoi.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/hanoi.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/hanoi.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/hanoi.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/hanoi.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/hanoi.sourcelink.json
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/hanoi.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/refint/hanoi.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/hanoi.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/hanoi.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/hanoi/obj/Debug/net8.0/ref/hanoi.dll
