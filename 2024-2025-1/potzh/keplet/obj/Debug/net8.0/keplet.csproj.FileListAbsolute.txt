@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/bin/Debug/net8.0/keplet
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/bin/Debug/net8.0/keplet.deps.json
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/bin/Debug/net8.0/keplet.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/bin/Debug/net8.0/keplet.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/bin/Debug/net8.0/keplet.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/keplet.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/keplet.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/keplet.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/keplet.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/keplet.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/keplet.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/refint/keplet.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/keplet.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/keplet.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/keplet/obj/Debug/net8.0/ref/keplet.dll

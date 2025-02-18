@@ -1,0 +1,15 @@
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/bin/Debug/net8.0/duolingvo
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/bin/Debug/net8.0/duolingvo.deps.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/bin/Debug/net8.0/duolingvo.runtimeconfig.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/bin/Debug/net8.0/duolingvo.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/bin/Debug/net8.0/duolingvo.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/duolingvo.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/duolingvo.AssemblyInfoInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/duolingvo.AssemblyInfo.cs
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/duolingvo.csproj.CoreCompileInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/duolingvo.sourcelink.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/duolingvo.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/refint/duolingvo.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/duolingvo.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/duolingvo.genruntimeconfig.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/duolingvo/obj/Debug/net8.0/ref/duolingvo.dll

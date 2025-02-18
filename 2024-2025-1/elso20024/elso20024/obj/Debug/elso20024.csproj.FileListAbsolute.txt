@@ -1,0 +1,7 @@
+C:\Users\gugol\source\repos\elso20024\elso20024\obj\Debug\elso20024.csprojAssemblyReference.cache
+C:\Users\gugol\source\repos\elso20024\elso20024\obj\Debug\elso20024.csproj.CoreCompileInputs.cache
+C:\Users\gugol\source\repos\elso20024\elso20024\bin\Debug\elso20024.exe.config
+C:\Users\gugol\source\repos\elso20024\elso20024\bin\Debug\elso20024.exe
+C:\Users\gugol\source\repos\elso20024\elso20024\bin\Debug\elso20024.pdb
+C:\Users\gugol\source\repos\elso20024\elso20024\obj\Debug\elso20024.exe
+C:\Users\gugol\source\repos\elso20024\elso20024\obj\Debug\elso20024.pdb

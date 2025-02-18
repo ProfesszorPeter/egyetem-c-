@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/bin/Debug/net8.0/tuzijatek
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/bin/Debug/net8.0/tuzijatek.deps.json
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/bin/Debug/net8.0/tuzijatek.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/bin/Debug/net8.0/tuzijatek.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/bin/Debug/net8.0/tuzijatek.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/tuzijatek.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/tuzijatek.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/tuzijatek.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/tuzijatek.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/tuzijatek.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/tuzijatek.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/refint/tuzijatek.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/tuzijatek.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/tuzijatek.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/tuzijatek/obj/Debug/net8.0/ref/tuzijatek.dll

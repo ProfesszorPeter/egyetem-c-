@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/bin/Debug/net8.0/ciklus
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/bin/Debug/net8.0/ciklus.deps.json
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/bin/Debug/net8.0/ciklus.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/bin/Debug/net8.0/ciklus.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/bin/Debug/net8.0/ciklus.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ciklus.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ciklus.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ciklus.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ciklus.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ciklus.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ciklus.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/refint/ciklus.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ciklus.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ciklus.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/ciklus/obj/Debug/net8.0/ref/ciklus.dll

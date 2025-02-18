@@ -1,0 +1,15 @@
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/bin/Debug/net8.0/bsa
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/bin/Debug/net8.0/bsa.deps.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/bin/Debug/net8.0/bsa.runtimeconfig.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/bin/Debug/net8.0/bsa.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/bin/Debug/net8.0/bsa.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/bsa.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/bsa.AssemblyInfoInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/bsa.AssemblyInfo.cs
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/bsa.csproj.CoreCompileInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/bsa.sourcelink.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/bsa.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/refint/bsa.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/bsa.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/bsa.genruntimeconfig.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/bsa/obj/Debug/net8.0/ref/bsa.dll

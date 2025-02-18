@@ -1,0 +1,15 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/bin/Debug/net8.0/tti_allomany
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/bin/Debug/net8.0/tti_allomany.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/bin/Debug/net8.0/tti_allomany.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/bin/Debug/net8.0/tti_allomany.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/bin/Debug/net8.0/tti_allomany.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/tti_allomany.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/tti_allomany.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/tti_allomany.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/tti_allomany.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/tti_allomany.sourcelink.json
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/tti_allomany.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/refint/tti_allomany.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/tti_allomany.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/tti_allomany.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/obj/Debug/net8.0/ref/tti_allomany.dll

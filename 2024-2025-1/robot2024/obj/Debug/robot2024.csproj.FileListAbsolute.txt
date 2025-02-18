@@ -1,0 +1,9 @@
+C:/Users/gugol/source/repos/robot2024/bin/Debug/program.txt
+C:/Users/gugol/source/repos/robot2024/bin/Debug/robot2024.exe.config
+C:/Users/gugol/source/repos/robot2024/bin/Debug/robot2024.exe
+C:/Users/gugol/source/repos/robot2024/bin/Debug/robot2024.pdb
+C:/Users/gugol/source/repos/robot2024/obj/Debug/robot2024.csproj.CoreCompileInputs.cache
+C:/Users/gugol/source/repos/robot2024/obj/Debug/robot2024.exe
+C:/Users/gugol/source/repos/robot2024/obj/Debug/robot2024.pdb
+/mnt/egyetem/2024-2025-1/robot2024/obj/Debug/robot2024.exe
+/mnt/egyetem/2024-2025-1/robot2024/obj/Debug/robot2024.pdb

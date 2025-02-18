@@ -10,7 +10,6 @@
                 {4,3,5,2,4,5,6},
                 {4,3,2,1,2,4,6}
             };
-            int[,] t2D = new int[3,7];
             string[] baratok = {"Jani", "Géza", "Anna"};
 
             for(int sor = 0; sor < 3; sor++)

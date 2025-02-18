@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/peter/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/peter/learning/c#/egyetem/2024-2025-1/matrix/matrix.csproj",
+      "projectUniqueName": "/mnt/egyetem/2024-2025-1/matrix/matrix.csproj",
       "projectName": "matrix",
-      "projectPath": "/home/peter/learning/c#/egyetem/2024-2025-1/matrix/matrix.csproj",
-      "packagesPath": "/home/peter/.nuget/packages/",
-      "outputPath": "/home/peter/learning/c#/egyetem/2024-2025-1/matrix/obj/",
+      "projectPath": "/mnt/egyetem/2024-2025-1/matrix/matrix.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/mnt/egyetem/2024-2025-1/matrix/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/peter/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -54,18 +54,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.8, 8.0.8]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

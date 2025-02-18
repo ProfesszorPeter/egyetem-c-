@@ -1,0 +1,15 @@
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/bin/Debug/net8.0/tetraeder
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/bin/Debug/net8.0/tetraeder.deps.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/bin/Debug/net8.0/tetraeder.runtimeconfig.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/bin/Debug/net8.0/tetraeder.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/bin/Debug/net8.0/tetraeder.pdb
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/tetraeder.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/tetraeder.AssemblyInfoInputs.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/tetraeder.AssemblyInfo.cs
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/tetraeder.csproj.CoreCompileInputs.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/tetraeder.sourcelink.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/tetraeder.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/refint/tetraeder.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/tetraeder.pdb
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/tetraeder.genruntimeconfig.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/tetraeder/obj/Debug/net8.0/ref/tetraeder.dll

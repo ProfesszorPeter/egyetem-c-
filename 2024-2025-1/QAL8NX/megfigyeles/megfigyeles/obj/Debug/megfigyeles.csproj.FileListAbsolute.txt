@@ -1,0 +1,8 @@
+E:\2024-2025-1\alpot\QAL8NX\megfigyeles\megfigyeles\bin\Debug\megfigyeles.txt
+E:\2024-2025-1\alpot\QAL8NX\megfigyeles\megfigyeles\bin\Debug\megfigyeles.exe.config
+E:\2024-2025-1\alpot\QAL8NX\megfigyeles\megfigyeles\bin\Debug\megfigyeles.exe
+E:\2024-2025-1\alpot\QAL8NX\megfigyeles\megfigyeles\bin\Debug\megfigyeles.pdb
+E:\2024-2025-1\alpot\QAL8NX\megfigyeles\megfigyeles\obj\Debug\megfigyeles.csproj.AssemblyReference.cache
+E:\2024-2025-1\alpot\QAL8NX\megfigyeles\megfigyeles\obj\Debug\megfigyeles.csproj.CoreCompileInputs.cache
+E:\2024-2025-1\alpot\QAL8NX\megfigyeles\megfigyeles\obj\Debug\megfigyeles.exe
+E:\2024-2025-1\alpot\QAL8NX\megfigyeles\megfigyeles\obj\Debug\megfigyeles.pdb

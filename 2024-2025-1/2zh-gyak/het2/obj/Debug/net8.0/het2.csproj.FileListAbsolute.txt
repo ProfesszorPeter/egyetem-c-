@@ -1,0 +1,15 @@
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/bin/Debug/net8.0/het2
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/bin/Debug/net8.0/het2.deps.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/bin/Debug/net8.0/het2.runtimeconfig.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/bin/Debug/net8.0/het2.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/bin/Debug/net8.0/het2.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/het2.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/het2.AssemblyInfoInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/het2.AssemblyInfo.cs
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/het2.csproj.CoreCompileInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/het2.sourcelink.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/het2.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/refint/het2.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/het2.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/het2.genruntimeconfig.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/het2/obj/Debug/net8.0/ref/het2.dll

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "znbfpk7Apo4dnkWIahjfMKMWwRagQM+meeM420dIu+MycQ7rYmED/7jwOOpBsBdllF4s8Y8zh9xaeoOJeoalYQ==",
+  "dgSpecHash": "34V0k4W/T4w=",
   "success": true,
-  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/progtetelek/progtetelek.csproj",
+  "projectFilePath": "/mnt/egyetem/2024-2025-1/progtetelek/progtetelek.csproj",
   "expectedPackageFiles": [
-    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+    "/root/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.11/microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,7 @@
+E:\2024-2025-1\robot-eretsegi\robot-eretsegi\bin\Debug\robot-eretsegi.exe.config
+E:\2024-2025-1\robot-eretsegi\robot-eretsegi\bin\Debug\robot-eretsegi.exe
+E:\2024-2025-1\robot-eretsegi\robot-eretsegi\bin\Debug\robot-eretsegi.pdb
+E:\2024-2025-1\robot-eretsegi\robot-eretsegi\obj\Debug\robot-eretsegi.csproj.AssemblyReference.cache
+E:\2024-2025-1\robot-eretsegi\robot-eretsegi\obj\Debug\robot-eretsegi.csproj.CoreCompileInputs.cache
+E:\2024-2025-1\robot-eretsegi\robot-eretsegi\obj\Debug\robot-eretsegi.exe
+E:\2024-2025-1\robot-eretsegi\robot-eretsegi\obj\Debug\robot-eretsegi.pdb

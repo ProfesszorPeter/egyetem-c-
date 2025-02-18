@@ -1,0 +1,7 @@
+E:\2024-2025-1\alpot\QAL8NX\tuzijatek\tuzijatek\bin\Debug\tuzijatek.exe.config
+E:\2024-2025-1\alpot\QAL8NX\tuzijatek\tuzijatek\bin\Debug\tuzijatek.exe
+E:\2024-2025-1\alpot\QAL8NX\tuzijatek\tuzijatek\bin\Debug\tuzijatek.pdb
+E:\2024-2025-1\alpot\QAL8NX\tuzijatek\tuzijatek\obj\Debug\tuzijatek.csproj.AssemblyReference.cache
+E:\2024-2025-1\alpot\QAL8NX\tuzijatek\tuzijatek\obj\Debug\tuzijatek.csproj.CoreCompileInputs.cache
+E:\2024-2025-1\alpot\QAL8NX\tuzijatek\tuzijatek\obj\Debug\tuzijatek.exe
+E:\2024-2025-1\alpot\QAL8NX\tuzijatek\tuzijatek\obj\Debug\tuzijatek.pdb

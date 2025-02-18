@@ -1,0 +1,15 @@
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/bin/Debug/net8.0/jegyek
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/bin/Debug/net8.0/jegyek.deps.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/bin/Debug/net8.0/jegyek.runtimeconfig.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/bin/Debug/net8.0/jegyek.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/bin/Debug/net8.0/jegyek.pdb
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/jegyek.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/jegyek.AssemblyInfoInputs.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/jegyek.AssemblyInfo.cs
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/jegyek.csproj.CoreCompileInputs.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/jegyek.sourcelink.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/jegyek.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/refint/jegyek.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/jegyek.pdb
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/jegyek.genruntimeconfig.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/jegyek/obj/Debug/net8.0/ref/jegyek.dll

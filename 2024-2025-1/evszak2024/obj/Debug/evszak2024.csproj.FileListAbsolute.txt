@@ -1,0 +1,7 @@
+C:\Users\gugol\source\repos\evszak2024\bin\Debug\evszak2024.exe.config
+C:\Users\gugol\source\repos\evszak2024\bin\Debug\evszak2024.exe
+C:\Users\gugol\source\repos\evszak2024\bin\Debug\evszak2024.pdb
+C:\Users\gugol\source\repos\evszak2024\obj\Debug\evszak2024.csprojAssemblyReference.cache
+C:\Users\gugol\source\repos\evszak2024\obj\Debug\evszak2024.csproj.CoreCompileInputs.cache
+C:\Users\gugol\source\repos\evszak2024\obj\Debug\evszak2024.exe
+C:\Users\gugol\source\repos\evszak2024\obj\Debug\evszak2024.pdb

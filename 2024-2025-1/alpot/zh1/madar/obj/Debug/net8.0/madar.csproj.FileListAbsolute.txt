@@ -1,0 +1,15 @@
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/bin/Debug/net8.0/madar
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/bin/Debug/net8.0/madar.deps.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/bin/Debug/net8.0/madar.runtimeconfig.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/bin/Debug/net8.0/madar.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/bin/Debug/net8.0/madar.pdb
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/madar.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/madar.AssemblyInfoInputs.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/madar.AssemblyInfo.cs
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/madar.csproj.CoreCompileInputs.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/madar.sourcelink.json
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/madar.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/refint/madar.dll
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/madar.pdb
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/madar.genruntimeconfig.cache
+/mnt/egyetem/2024-2025-1/alpot/zh1/madar/obj/Debug/net8.0/ref/madar.dll

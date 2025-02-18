@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qln0fVYA/jUj1aggC9NxCLsN6b51rF5KaBANXGDDnWhlOsAriRy2JcHg8GSUgnh81Au+m48aDkaflxdR+f2DCg==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/maximRendezes.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

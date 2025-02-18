@@ -1,0 +1,7 @@
+E:\2024-2025-1\alpot\QAL8NX\julcsi\julcsi\bin\Debug\julcsi.exe.config
+E:\2024-2025-1\alpot\QAL8NX\julcsi\julcsi\bin\Debug\julcsi.exe
+E:\2024-2025-1\alpot\QAL8NX\julcsi\julcsi\bin\Debug\julcsi.pdb
+E:\2024-2025-1\alpot\QAL8NX\julcsi\julcsi\obj\Debug\julcsi.csproj.AssemblyReference.cache
+E:\2024-2025-1\alpot\QAL8NX\julcsi\julcsi\obj\Debug\julcsi.csproj.CoreCompileInputs.cache
+E:\2024-2025-1\alpot\QAL8NX\julcsi\julcsi\obj\Debug\julcsi.exe
+E:\2024-2025-1\alpot\QAL8NX\julcsi\julcsi\obj\Debug\julcsi.pdb

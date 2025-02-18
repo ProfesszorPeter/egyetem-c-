@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/bin/Debug/net8.0/toto
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/bin/Debug/net8.0/toto.deps.json
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/bin/Debug/net8.0/toto.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/bin/Debug/net8.0/toto.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/bin/Debug/net8.0/toto.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/toto.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/toto.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/toto.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/toto.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/toto.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/toto.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/refint/toto.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/toto.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/toto.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/toto/obj/Debug/net8.0/ref/toto.dll

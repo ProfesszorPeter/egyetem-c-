@@ -1,0 +1,15 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/bin/Debug/net8.0/maximRendezes
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/bin/Debug/net8.0/maximRendezes.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/bin/Debug/net8.0/maximRendezes.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/bin/Debug/net8.0/maximRendezes.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/bin/Debug/net8.0/maximRendezes.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/maximRendezes.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/maximRendezes.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/maximRendezes.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/maximRendezes.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/maximRendezes.sourcelink.json
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/maximRendezes.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/refint/maximRendezes.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/maximRendezes.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/maximRendezes.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/maximRendezes/obj/Debug/net8.0/ref/maximRendezes.dll

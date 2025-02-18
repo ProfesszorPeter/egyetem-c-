@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(fib(100));
+            Console.WriteLine(fib(10));
 
             static int fib(int n)
             {

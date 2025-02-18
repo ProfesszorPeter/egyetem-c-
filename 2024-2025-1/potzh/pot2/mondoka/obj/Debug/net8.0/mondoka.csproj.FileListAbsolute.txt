@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/bin/Debug/net8.0/mondoka
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/bin/Debug/net8.0/mondoka.deps.json
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/bin/Debug/net8.0/mondoka.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/bin/Debug/net8.0/mondoka.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/bin/Debug/net8.0/mondoka.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/mondoka.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/mondoka.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/mondoka.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/mondoka.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/mondoka.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/mondoka.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/refint/mondoka.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/mondoka.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/mondoka.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/pot2/mondoka/obj/Debug/net8.0/ref/mondoka.dll

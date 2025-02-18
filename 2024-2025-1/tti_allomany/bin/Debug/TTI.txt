@@ -1,0 +1,5 @@
+
+Kis István;185;85,4
+Nagy Anna;167;61,1
+Szép Ottó;178;77,4
+Okos János;191;99,2

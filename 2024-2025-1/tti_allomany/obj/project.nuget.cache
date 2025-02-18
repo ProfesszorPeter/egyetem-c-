@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "95zJEKggSg+JpLfn6pp9L2Rv0NE5e2ejwWYhzi1TktdE9uLzhpsi+RlkOFTa3l+PiMXd9Gqj02T6ErB89YpE9Q==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/tti_allomany/tti_allomany.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

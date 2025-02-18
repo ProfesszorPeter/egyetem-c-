@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/struktura/bin/Debug/net8.0/struktura
+/mnt/c#/egyetem/2024-2025-1/struktura/bin/Debug/net8.0/struktura.deps.json
+/mnt/c#/egyetem/2024-2025-1/struktura/bin/Debug/net8.0/struktura.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/struktura/bin/Debug/net8.0/struktura.dll
+/mnt/c#/egyetem/2024-2025-1/struktura/bin/Debug/net8.0/struktura.pdb
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/struktura.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/struktura.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/struktura.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/struktura.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/struktura.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/struktura.dll
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/refint/struktura.dll
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/struktura.pdb
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/struktura.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/struktura/obj/Debug/net8.0/ref/struktura.dll

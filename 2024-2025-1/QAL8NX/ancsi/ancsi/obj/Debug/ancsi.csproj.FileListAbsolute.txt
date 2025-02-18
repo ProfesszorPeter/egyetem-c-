@@ -1,0 +1,7 @@
+E:\2024-2025-1\alpot\QAL8NX\ancsi\ancsi\obj\Debug\ancsi.csproj.AssemblyReference.cache
+E:\2024-2025-1\alpot\QAL8NX\ancsi\ancsi\obj\Debug\ancsi.csproj.CoreCompileInputs.cache
+E:\2024-2025-1\alpot\QAL8NX\ancsi\ancsi\bin\Debug\ancsi.exe.config
+E:\2024-2025-1\alpot\QAL8NX\ancsi\ancsi\bin\Debug\ancsi.exe
+E:\2024-2025-1\alpot\QAL8NX\ancsi\ancsi\bin\Debug\ancsi.pdb
+E:\2024-2025-1\alpot\QAL8NX\ancsi\ancsi\obj\Debug\ancsi.exe
+E:\2024-2025-1\alpot\QAL8NX\ancsi\ancsi\obj\Debug\ancsi.pdb

@@ -1,0 +1,15 @@
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/bin/Debug/net8.0/mondatszeru
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/bin/Debug/net8.0/mondatszeru.deps.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/bin/Debug/net8.0/mondatszeru.runtimeconfig.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/bin/Debug/net8.0/mondatszeru.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/bin/Debug/net8.0/mondatszeru.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/mondatszeru.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/mondatszeru.AssemblyInfoInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/mondatszeru.AssemblyInfo.cs
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/mondatszeru.csproj.CoreCompileInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/mondatszeru.sourcelink.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/mondatszeru.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/refint/mondatszeru.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/mondatszeru.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/mondatszeru.genruntimeconfig.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/mondatszeru/obj/Debug/net8.0/ref/mondatszeru.dll

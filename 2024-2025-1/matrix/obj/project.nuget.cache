@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ac2/Y2RM7PxNlOlnaWQDgcJr0lG9QVn8U0oQmi9yjJS3Mr1JHpKpIj6lwhknmtfvl6LeHbuLEdoTQCVbjQ+klQ==",
+  "dgSpecHash": "Z5KUUy47Bd9v9CMKvtjYIZ1e8DnR0zufV+xsJ8h9gf+Dhj/mfGiVz7MGfA/hQp4u7LcTaM24IHVuDWzkxu9ffg==",
   "success": true,
-  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/matrix/matrix.csproj",
-  "expectedPackageFiles": [
-    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
-  ],
+  "projectFilePath": "/mnt/egyetem/2024-2025-1/matrix/matrix.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

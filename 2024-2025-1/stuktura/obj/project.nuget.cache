@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAAkMQICIXSG53htLwsxwyot96KAyqFd89TWmA9IXv2i/0Kihk4gQOmvLYEWJwXPYf9m9LppvCIMqRRdwqnzRA==",
+  "success": true,
+  "projectFilePath": "/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/stuktura.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

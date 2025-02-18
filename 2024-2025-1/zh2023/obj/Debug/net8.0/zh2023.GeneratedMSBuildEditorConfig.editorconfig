@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = zh2023
-build_property.ProjectDir = /home/peter/learning/c#/egyetem/2024-2025-1/zh2023/
+build_property.ProjectDir = /mnt/c#/egyetem/2024-2025-1/zh2023/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

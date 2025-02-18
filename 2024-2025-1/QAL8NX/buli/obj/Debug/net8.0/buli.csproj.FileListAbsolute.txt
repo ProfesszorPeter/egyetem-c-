@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/bin/Debug/net8.0/buli
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/bin/Debug/net8.0/buli.deps.json
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/bin/Debug/net8.0/buli.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/bin/Debug/net8.0/buli.dll
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/bin/Debug/net8.0/buli.pdb
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/buli.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/buli.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/buli.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/buli.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/buli.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/buli.dll
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/refint/buli.dll
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/buli.pdb
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/buli.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/QAL8NX/buli/obj/Debug/net8.0/ref/buli.dll

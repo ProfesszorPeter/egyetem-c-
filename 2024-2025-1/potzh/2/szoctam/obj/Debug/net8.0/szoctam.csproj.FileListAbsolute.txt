@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/bin/Debug/net8.0/szoctam
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/bin/Debug/net8.0/szoctam.deps.json
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/bin/Debug/net8.0/szoctam.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/bin/Debug/net8.0/szoctam.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/bin/Debug/net8.0/szoctam.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/szoctam.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/szoctam.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/szoctam.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/szoctam.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/szoctam.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/szoctam.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/refint/szoctam.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/szoctam.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/szoctam.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/2/szoctam/obj/Debug/net8.0/ref/szoctam.dll

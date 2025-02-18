@@ -1,0 +1,15 @@
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/bin/Debug/net8.0/tomb2d
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/bin/Debug/net8.0/tomb2d.deps.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/bin/Debug/net8.0/tomb2d.runtimeconfig.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/bin/Debug/net8.0/tomb2d.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/bin/Debug/net8.0/tomb2d.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/tomb2d.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/tomb2d.AssemblyInfoInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/tomb2d.AssemblyInfo.cs
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/tomb2d.csproj.CoreCompileInputs.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/tomb2d.sourcelink.json
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/tomb2d.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/refint/tomb2d.dll
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/tomb2d.pdb
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/tomb2d.genruntimeconfig.cache
+/mnt/egyetem/2024-2025-1/2zh-gyak/tomb2d/obj/Debug/net8.0/ref/tomb2d.dll

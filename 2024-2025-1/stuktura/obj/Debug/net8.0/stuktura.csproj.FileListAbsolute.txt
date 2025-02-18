@@ -1,0 +1,15 @@
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/bin/Debug/net8.0/stuktura
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/bin/Debug/net8.0/stuktura.deps.json
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/bin/Debug/net8.0/stuktura.runtimeconfig.json
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/bin/Debug/net8.0/stuktura.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/bin/Debug/net8.0/stuktura.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/stuktura.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/stuktura.AssemblyInfoInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/stuktura.AssemblyInfo.cs
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/stuktura.csproj.CoreCompileInputs.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/stuktura.sourcelink.json
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/stuktura.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/refint/stuktura.dll
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/stuktura.pdb
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/stuktura.genruntimeconfig.cache
+/home/peter/learning/c#/egyetem/2024-2025-1/stuktura/obj/Debug/net8.0/ref/stuktura.dll

@@ -1,0 +1,7 @@
+E:\2024-2025-1\alpot\QAL8NX\baratnok\baratnok\bin\Debug\baratnok.exe.config
+E:\2024-2025-1\alpot\QAL8NX\baratnok\baratnok\bin\Debug\baratnok.exe
+E:\2024-2025-1\alpot\QAL8NX\baratnok\baratnok\bin\Debug\baratnok.pdb
+E:\2024-2025-1\alpot\QAL8NX\baratnok\baratnok\obj\Debug\baratnok.csproj.AssemblyReference.cache
+E:\2024-2025-1\alpot\QAL8NX\baratnok\baratnok\obj\Debug\baratnok.csproj.CoreCompileInputs.cache
+E:\2024-2025-1\alpot\QAL8NX\baratnok\baratnok\obj\Debug\baratnok.exe
+E:\2024-2025-1\alpot\QAL8NX\baratnok\baratnok\obj\Debug\baratnok.pdb

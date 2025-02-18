@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/bin/Debug/net8.0/gyumolcs
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/bin/Debug/net8.0/gyumolcs.deps.json
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/bin/Debug/net8.0/gyumolcs.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/bin/Debug/net8.0/gyumolcs.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/bin/Debug/net8.0/gyumolcs.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/gyumolcs.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/gyumolcs.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/gyumolcs.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/gyumolcs.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/gyumolcs.sourcelink.json
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/gyumolcs.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/refint/gyumolcs.dll
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/gyumolcs.pdb
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/gyumolcs.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-1/potzh/2/gyumolcs/obj/Debug/net8.0/ref/gyumolcs.dll

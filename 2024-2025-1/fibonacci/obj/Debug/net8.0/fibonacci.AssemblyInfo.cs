@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fibonacci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b7d3f5ffcb42ab59aca8b95a5b7f64e49b0b8f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63abd5739facad80a688bb4f5c3baf53a5609abb")]
 [assembly: System.Reflection.AssemblyProductAttribute("fibonacci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fibonacci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

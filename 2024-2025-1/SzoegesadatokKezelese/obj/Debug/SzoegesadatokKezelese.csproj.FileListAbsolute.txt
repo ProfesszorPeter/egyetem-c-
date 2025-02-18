@@ -1,0 +1,7 @@
+C:\Users\gugol\source\repos\SzoegesadatokKezelese\bin\Debug\SzoegesadatokKezelese.exe.config
+C:\Users\gugol\source\repos\SzoegesadatokKezelese\bin\Debug\SzoegesadatokKezelese.exe
+C:\Users\gugol\source\repos\SzoegesadatokKezelese\bin\Debug\SzoegesadatokKezelese.pdb
+C:\Users\gugol\source\repos\SzoegesadatokKezelese\obj\Debug\SzoegesadatokKezelese.csprojAssemblyReference.cache
+C:\Users\gugol\source\repos\SzoegesadatokKezelese\obj\Debug\SzoegesadatokKezelese.csproj.CoreCompileInputs.cache
+C:\Users\gugol\source\repos\SzoegesadatokKezelese\obj\Debug\SzoegesadatokKezelese.exe
+C:\Users\gugol\source\repos\SzoegesadatokKezelese\obj\Debug\SzoegesadatokKezelese.pdb
