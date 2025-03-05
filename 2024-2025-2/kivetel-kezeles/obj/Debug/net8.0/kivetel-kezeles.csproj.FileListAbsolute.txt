@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/bin/Debug/net8.0/kivetel-kezeles
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/bin/Debug/net8.0/kivetel-kezeles.deps.json
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/bin/Debug/net8.0/kivetel-kezeles.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/bin/Debug/net8.0/kivetel-kezeles.dll
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/bin/Debug/net8.0/kivetel-kezeles.pdb
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/kivetel-kezeles.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/kivetel-kezeles.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/kivetel-kezeles.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/kivetel-kezeles.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/kivetel-kezeles.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/kivetel-kezeles.dll
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/refint/kivetel-kezeles.dll
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/kivetel-kezeles.pdb
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/kivetel-kezeles.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/kivetel-kezeles/obj/Debug/net8.0/ref/kivetel-kezeles.dll
