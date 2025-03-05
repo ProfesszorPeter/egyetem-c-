@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uz6Tckv747ZpB2c7mK3Ry6MdI1kM2/RsmMhcw6qnSoV7ZLBKiQUp7fPpr25xFezucb16ktV4QQ83iJ2NfLS9yQ==",
+  "success": true,
+  "projectFilePath": "/mnt/c#/egyetem/2024-2025-2/szalloda/szalloda.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
