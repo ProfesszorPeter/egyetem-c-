@@ -1,0 +1,885 @@
+[
+
+   {
+
+      "sorszam":"1",
+
+      "nev":"Budapest-Ferihegy",
+
+      "hossz":"3010",
+
+      "szelesseg":"45",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"2",
+
+      "nev":"Budapest-Ferihegy",
+
+      "hossz":"3707",
+
+      "szelesseg":"45",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"3",
+
+      "nev":"Budapest-Ferihegy",
+
+      "hossz":"900",
+
+      "szelesseg":"23",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"4",
+
+      "nev":"Budapest-Ferihegy",
+
+      "hossz":"900",
+
+      "szelesseg":"23",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"5",
+
+      "nev":"Debreceni nemzetközi repülőtér",
+
+      "hossz":"2500",
+
+      "szelesseg":"40",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"6",
+
+      "nev":"Debreceni nemzetközi repülőtér",
+
+      "hossz":"2500",
+
+      "szelesseg":"40",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"7",
+
+      "nev":"Debreceni nemzetközi repülőtér",
+
+      "hossz":"2500",
+
+      "szelesseg":"90",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"8",
+
+      "nev":"Debreceni nemzetközi repülőtér",
+
+      "hossz":"1000",
+
+      "szelesseg":"100",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"9",
+
+      "nev":"Győr-Pér",
+
+      "hossz":"1450",
+
+      "szelesseg":"30",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"10",
+
+      "nev":"Győr-Pér",
+
+      "hossz":"1450",
+
+      "szelesseg":"30",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"11",
+
+      "nev":"Győr-Pér",
+
+      "hossz":"1340",
+
+      "szelesseg":"150",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"12",
+
+      "nev":"Győr-Pér",
+
+      "hossz":"900",
+
+      "szelesseg":"150",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"13",
+
+      "nev":"Pécs-Pogány Repülőtér",
+
+      "hossz":"1500",
+
+      "szelesseg":"30",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"14",
+
+      "nev":"Sármellék nemzetközi repülőtér",
+
+      "hossz":"2500",
+
+      "szelesseg":"60",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"15",
+
+      "nev":"Sármellék nemzetközi repülőtér",
+
+      "hossz":"1000",
+
+      "szelesseg":"45",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"16",
+
+      "nev":"Sármellék nemzetközi repülőtér",
+
+      "hossz":"30",
+
+      "szelesseg":"45",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"17",
+
+      "nev":"Fertőszentmiklós",
+
+      "hossz":"985",
+
+      "szelesseg":"23",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"18",
+
+      "nev":"Nyíregyháza",
+
+      "hossz":"1000",
+
+      "szelesseg":"20",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"19",
+
+      "nev":"Nyíregyháza",
+
+      "hossz":"1000",
+
+      "szelesseg":"60",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"20",
+
+      "nev":"Siófok-Kiliti",
+
+      "hossz":"2000",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"21",
+
+      "nev":"Siófok-Kiliti",
+
+      "hossz":"2000",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"22",
+
+      "nev":"Siófok-Kiliti",
+
+      "hossz":"2000",
+
+      "szelesseg":"140",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"23",
+
+      "nev":"Kecskeméti katonai repülőtér",
+
+      "hossz":"2499",
+
+      "szelesseg":"60",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"24",
+
+      "nev":"Kecskeméti katonai repülőtér",
+
+      "hossz":"2499",
+
+      "szelesseg":"60",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"25",
+
+      "nev":"Pápa",
+
+      "hossz":"2400",
+
+      "szelesseg":"60",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"26",
+
+      "nev":"Pápa",
+
+      "hossz":"2400",
+
+      "szelesseg":"60",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"27",
+
+      "nev":"Szolnok",
+
+      "hossz":"2000",
+
+      "szelesseg":"70",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"28",
+
+      "nev":"Szolnok",
+
+      "hossz":"2000",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"29",
+
+      "nev":"Taszár",
+
+      "hossz":"2500",
+
+      "szelesseg":"60",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"30",
+
+      "nev":"Békéscsabai repülőtér",
+
+      "hossz":"1500",
+
+      "szelesseg":"30",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"31",
+
+      "nev":"Békéscsabai repülőtér",
+
+      "hossz":"1500",
+
+      "szelesseg":"30",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"32",
+
+      "nev":"Békéscsabai repülőtér",
+
+      "hossz":"800",
+
+      "szelesseg":"200",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"33",
+
+      "nev":"Székesfehérvár-Börgöndi repülőtér",
+
+      "hossz":"1200",
+
+      "szelesseg":"200",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"34",
+
+      "nev":"Budaörs",
+
+      "hossz":"980",
+
+      "szelesseg":"60",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"35",
+
+      "nev":"Budaörs",
+
+      "hossz":"750",
+
+      "szelesseg":"40",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"36",
+
+      "nev":"Budapest-Hármashatárhegy",
+
+      "hossz":"1000",
+
+      "szelesseg":"100",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"37",
+
+      "nev":"Dunakeszi",
+
+      "hossz":"800",
+
+      "szelesseg":"500",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"38",
+
+      "nev":"Dunaújváros",
+
+      "hossz":"950",
+
+      "szelesseg":"60",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"39",
+
+      "nev":"Esztergomi repülőtér",
+
+      "hossz":"1000",
+
+      "szelesseg":"80",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"40",
+
+      "nev":"Farkashegy",
+
+      "hossz":"1000",
+
+      "szelesseg":"200",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"41",
+
+      "nev":"Gödöllői repülőtér",
+
+      "hossz":"1000",
+
+      "szelesseg":"100",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"42",
+
+      "nev":"Gyöngyös-Pipishegy",
+
+      "hossz":"760",
+
+      "szelesseg":"20",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"43",
+
+      "nev":"Hajdúszoboszló",
+
+      "hossz":"1000",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"44",
+
+      "nev":"Hajdúszoboszló",
+
+      "hossz":"800",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"45",
+
+      "nev":"Jakabszállás",
+
+      "hossz":"600",
+
+      "szelesseg":"18",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"46",
+
+      "nev":"Jakabszállás",
+
+      "hossz":"1000",
+
+      "szelesseg":"30",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"47",
+
+      "nev":"Kaposújlak",
+
+      "hossz":"610",
+
+      "szelesseg":"18",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"48",
+
+      "nev":"Kaposújlak",
+
+      "hossz":"1200",
+
+      "szelesseg":"200",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"49",
+
+      "nev":"Kecskéd",
+
+      "hossz":"1000",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"50",
+
+      "nev":"Kecskéd",
+
+      "hossz":"1200",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"51",
+
+      "nev":"Kiskunfélegyháza",
+
+      "hossz":"758",
+
+      "szelesseg":"160",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"52",
+
+      "nev":"Kiskunfélegyháza",
+
+      "hossz":"536",
+
+      "szelesseg":"100",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"53",
+
+      "nev":"Mezőkövesd",
+
+      "hossz":"800",
+
+      "szelesseg":"100",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"54",
+
+      "nev":"Miskolc",
+
+      "hossz":"850",
+
+      "szelesseg":"100",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"55",
+
+      "nev":"Miskolc",
+
+      "hossz":"800",
+
+      "szelesseg":"100",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"56",
+
+      "nev":"Szeged",
+
+      "hossz":"1185",
+
+      "szelesseg":"30",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"57",
+
+      "nev":"Szeged",
+
+      "hossz":"1177",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"58",
+
+      "nev":"Szeged",
+
+      "hossz":"610",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"59",
+
+      "nev":"Szentes",
+
+      "hossz":"750",
+
+      "szelesseg":"150",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"60",
+
+      "nev":"Szolnok-Szandaszőlős",
+
+      "hossz":"1050",
+
+      "szelesseg":"200",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"61",
+
+      "nev":"Szombathely",
+
+      "hossz":"1600",
+
+      "szelesseg":"500",
+
+      "anyag":"fű"
+
+   },
+
+   {
+
+      "sorszam":"62",
+
+      "nev":"Tököl",
+
+      "hossz":"2500",
+
+      "szelesseg":"80",
+
+      "anyag":"beton"
+
+   },
+
+   {
+
+      "sorszam":"63",
+
+      "nev":"Tököl",
+
+      "hossz":"1100",
+
+      "szelesseg":"50",
+
+      "anyag":"fű"
+
+   }
+
+]

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3ISyTg5vnyEe4epZJoSJuOQYthb2bbAhILo8obWNKm4aX2aERVRv9SUEmTKDk7Xe621E9ImzIMAmgl1Dy+3xQ==",
+  "success": true,
+  "projectFilePath": "/mnt/c#/egyetem/2024-2025-2/repter/repter.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/json.net/1.0.33/json.net.1.0.33.nupkg.sha512",
+    "/root/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,163 @@
+[
+{
+  "sorszam": 1,
+  "nev": "Budapest-Ferihegy",
+  "hossz": 3010,
+  "szelesseg": 45,
+  "anyag": "beton"
+},
+{
+  "sorszam": 2,
+  "nev": "Budapest-Ferihegy",
+  "hossz": 3707,
+  "szelesseg": 45,
+  "anyag": "beton"
+},
+{
+  "sorszam": 3,
+  "nev": "Budapest-Ferihegy",
+  "hossz": 900,
+  "szelesseg": 23,
+  "anyag": "beton"
+},
+{
+  "sorszam": 4,
+  "nev": "Budapest-Ferihegy",
+  "hossz": 900,
+  "szelesseg": 23,
+  "anyag": "beton"
+},
+{
+  "sorszam": 5,
+  "nev": "Debreceni nemzetközi repülőtér",
+  "hossz": 2500,
+  "szelesseg": 40,
+  "anyag": "beton"
+},
+{
+  "sorszam": 6,
+  "nev": "Debreceni nemzetközi repülőtér",
+  "hossz": 2500,
+  "szelesseg": 40,
+  "anyag": "beton"
+},
+{
+  "sorszam": 7,
+  "nev": "Debreceni nemzetközi repülőtér",
+  "hossz": 2500,
+  "szelesseg": 90,
+  "anyag": "beton"
+},
+{
+  "sorszam": 9,
+  "nev": "Győr-Pér",
+  "hossz": 1450,
+  "szelesseg": 30,
+  "anyag": "beton"
+},
+{
+  "sorszam": 10,
+  "nev": "Győr-Pér",
+  "hossz": 1450,
+  "szelesseg": 30,
+  "anyag": "beton"
+},
+{
+  "sorszam": 13,
+  "nev": "Pécs-Pogány Repülőtér",
+  "hossz": 1500,
+  "szelesseg": 30,
+  "anyag": "beton"
+},
+{
+  "sorszam": 14,
+  "nev": "Sármellék nemzetközi repülőtér",
+  "hossz": 2500,
+  "szelesseg": 60,
+  "anyag": "beton"
+},
+{
+  "sorszam": 16,
+  "nev": "Sármellék nemzetközi repülőtér",
+  "hossz": 30,
+  "szelesseg": 45,
+  "anyag": "beton"
+},
+{
+  "sorszam": 17,
+  "nev": "Fertőszentmiklós",
+  "hossz": 985,
+  "szelesseg": 23,
+  "anyag": "beton"
+},
+{
+  "sorszam": 18,
+  "nev": "Nyíregyháza",
+  "hossz": 1000,
+  "szelesseg": 20,
+  "anyag": "beton"
+},
+{
+  "sorszam": 23,
+  "nev": "Kecskeméti katonai repülőtér",
+  "hossz": 2499,
+  "szelesseg": 60,
+  "anyag": "beton"
+},
+{
+  "sorszam": 24,
+  "nev": "Kecskeméti katonai repülőtér",
+  "hossz": 2499,
+  "szelesseg": 60,
+  "anyag": "beton"
+},
+{
+  "sorszam": 25,
+  "nev": "Pápa",
+  "hossz": 2400,
+  "szelesseg": 60,
+  "anyag": "beton"
+},
+{
+  "sorszam": 26,
+  "nev": "Pápa",
+  "hossz": 2400,
+  "szelesseg": 60,
+  "anyag": "beton"
+},
+{
+  "sorszam": 27,
+  "nev": "Szolnok",
+  "hossz": 2000,
+  "szelesseg": 70,
+  "anyag": "beton"
+},
+{
+  "sorszam": 29,
+  "nev": "Taszár",
+  "hossz": 2500,
+  "szelesseg": 60,
+  "anyag": "beton"
+},
+{
+  "sorszam": 30,
+  "nev": "Békéscsabai repülőtér",
+  "hossz": 1500,
+  "szelesseg": 30,
+  "anyag": "beton"
+},
+{
+  "sorszam": 56,
+  "nev": "Szeged",
+  "hossz": 1185,
+  "szelesseg": 30,
+  "anyag": "beton"
+},
+{
+  "sorszam": 62,
+  "nev": "Tököl",
+  "hossz": 2500,
+  "szelesseg": 80,
+  "anyag": "beton"
+}
+]
