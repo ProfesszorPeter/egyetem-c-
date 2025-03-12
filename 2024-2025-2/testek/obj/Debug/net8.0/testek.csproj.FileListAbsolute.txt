@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/testek.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/testek.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/testek.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/testek.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/testek.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/testek/bin/Debug/net8.0/testek
+/mnt/c#/egyetem/2024-2025-2/testek/bin/Debug/net8.0/testek.deps.json
+/mnt/c#/egyetem/2024-2025-2/testek/bin/Debug/net8.0/testek.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/testek/bin/Debug/net8.0/testek.dll
+/mnt/c#/egyetem/2024-2025-2/testek/bin/Debug/net8.0/testek.pdb
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/testek.dll
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/refint/testek.dll
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/testek.pdb
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/testek.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/testek/obj/Debug/net8.0/ref/testek.dll
