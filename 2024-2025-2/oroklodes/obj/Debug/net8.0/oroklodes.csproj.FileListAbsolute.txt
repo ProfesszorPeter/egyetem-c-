@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/oroklodes.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/oroklodes.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/oroklodes.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/oroklodes.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/oroklodes.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/oroklodes/bin/Debug/net8.0/oroklodes
+/mnt/c#/egyetem/2024-2025-2/oroklodes/bin/Debug/net8.0/oroklodes.deps.json
+/mnt/c#/egyetem/2024-2025-2/oroklodes/bin/Debug/net8.0/oroklodes.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/oroklodes/bin/Debug/net8.0/oroklodes.dll
+/mnt/c#/egyetem/2024-2025-2/oroklodes/bin/Debug/net8.0/oroklodes.pdb
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/oroklodes.dll
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/refint/oroklodes.dll
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/oroklodes.pdb
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/oroklodes.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/oroklodes/obj/Debug/net8.0/ref/oroklodes.dll
