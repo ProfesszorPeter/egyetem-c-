@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/zh2016a/bin/Debug/net8.0/zh2016a
+/mnt/c#/egyetem/2024-2025-2/zh2016a/bin/Debug/net8.0/zh2016a.deps.json
+/mnt/c#/egyetem/2024-2025-2/zh2016a/bin/Debug/net8.0/zh2016a.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/zh2016a/bin/Debug/net8.0/zh2016a.dll
+/mnt/c#/egyetem/2024-2025-2/zh2016a/bin/Debug/net8.0/zh2016a.pdb
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/zh2016a.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/zh2016a.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/zh2016a.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/zh2016a.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/zh2016a.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/zh2016a.dll
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/refint/zh2016a.dll
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/zh2016a.pdb
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/zh2016a.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/zh2016a/obj/Debug/net8.0/ref/zh2016a.dll
