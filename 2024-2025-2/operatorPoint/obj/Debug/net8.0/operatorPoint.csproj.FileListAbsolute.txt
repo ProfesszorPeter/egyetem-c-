@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/bin/Debug/net8.0/operatorPoint
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/bin/Debug/net8.0/operatorPoint.deps.json
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/bin/Debug/net8.0/operatorPoint.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/bin/Debug/net8.0/operatorPoint.dll
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/bin/Debug/net8.0/operatorPoint.pdb
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/operatorPoint.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/operatorPoint.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/operatorPoint.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/operatorPoint.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/operatorPoint.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/operatorPoint.dll
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/refint/operatorPoint.dll
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/operatorPoint.pdb
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/operatorPoint.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/operatorPoint/obj/Debug/net8.0/ref/operatorPoint.dll
