@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/bin/Debug/net8.0/tehetseg
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/bin/Debug/net8.0/tehetseg.deps.json
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/bin/Debug/net8.0/tehetseg.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/bin/Debug/net8.0/tehetseg.dll
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/bin/Debug/net8.0/tehetseg.pdb
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/tehetseg.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/tehetseg.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/tehetseg.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/tehetseg.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/tehetseg.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/tehetseg.dll
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/refint/tehetseg.dll
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/tehetseg.pdb
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/tehetseg.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg/obj/Debug/net8.0/ref/tehetseg.dll

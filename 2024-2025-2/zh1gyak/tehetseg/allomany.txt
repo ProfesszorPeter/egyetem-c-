@@ -1,0 +1,12 @@
+Sztár Eszter;16
+12;16;3;7;
+Csillag Éva;7
+0;14;9;7
+Hulló Csillag;4
+13;9;17;2
+Szép Elek;14
+7;1;14;8
+Tehetséges Anikó;1
+9;14;14;18
+Perc János;14
+19;4;16;13
