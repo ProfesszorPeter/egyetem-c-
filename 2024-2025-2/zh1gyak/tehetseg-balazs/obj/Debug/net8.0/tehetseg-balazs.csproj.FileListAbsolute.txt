@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/bin/Debug/net8.0/tehetseg-balazs
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/bin/Debug/net8.0/tehetseg-balazs.deps.json
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/bin/Debug/net8.0/tehetseg-balazs.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/bin/Debug/net8.0/tehetseg-balazs.dll
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/bin/Debug/net8.0/tehetseg-balazs.pdb
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/tehetseg-balazs.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/tehetseg-balazs.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/tehetseg-balazs.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/tehetseg-balazs.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/tehetseg-balazs.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/tehetseg-balazs.dll
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/refint/tehetseg-balazs.dll
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/tehetseg-balazs.pdb
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/tehetseg-balazs.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/zh1gyak/tehetseg-balazs/obj/Debug/net8.0/ref/tehetseg-balazs.dll
