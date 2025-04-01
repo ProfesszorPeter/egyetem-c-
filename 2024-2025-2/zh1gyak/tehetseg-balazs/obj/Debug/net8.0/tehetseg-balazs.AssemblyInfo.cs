@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tehetseg-balazs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08e72ce56d5e915242c98043176364c6308cb02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6187fc1819e8efdc2f0a66712c06ee731c860855")]
 [assembly: System.Reflection.AssemblyProductAttribute("tehetseg-balazs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tehetseg-balazs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

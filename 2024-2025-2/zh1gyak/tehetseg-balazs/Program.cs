@@ -38,6 +38,13 @@
             Console.WriteLine("{0} versenyző zsűripontjai: {1}", versenyzoNev, ZsuriPont(versenyzoNev, tehetsegek));
 
             minZsuri(3, tehetsegek);
+
+            StreamWriter ki = new StreamWriter("pontszámok.txt");
+            foreach (Tehetseg tehetseg in tehetsegek) {
+                int osszpont = tehetseg.KozossegPont + tehetseg.Zsuri1Pont + tehetseg.Zsuri2Pont +tehetseg.Zsuri3Pont +tehetseg.Zsuri4Pont; 
+                ki.WriteLine("{0} {1}",tehetseg.Nev,osszpont);
+            }
+            ki.Close();
         }
 
         private static void minZsuri(int zsuriIndex, Tehetseg[] tehetsegek) {
