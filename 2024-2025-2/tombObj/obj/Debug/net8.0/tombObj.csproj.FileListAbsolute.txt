@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/tombObj.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/tombObj.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/tombObj.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/tombObj.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/tombObj.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/tombObj/bin/Debug/net8.0/tombObj
+/mnt/c#/egyetem/2024-2025-2/tombObj/bin/Debug/net8.0/tombObj.deps.json
+/mnt/c#/egyetem/2024-2025-2/tombObj/bin/Debug/net8.0/tombObj.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/tombObj/bin/Debug/net8.0/tombObj.dll
+/mnt/c#/egyetem/2024-2025-2/tombObj/bin/Debug/net8.0/tombObj.pdb
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/tombObj.dll
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/refint/tombObj.dll
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/tombObj.pdb
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/tombObj.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/tombObj/obj/Debug/net8.0/ref/tombObj.dll
