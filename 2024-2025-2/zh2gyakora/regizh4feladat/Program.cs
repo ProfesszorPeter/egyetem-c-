@@ -28,11 +28,32 @@
                 return $"a:{a}, b:{b}, c:{c}";
             }
 
+            public static Kocka operator ++(Kocka a)
+            {
+                Kocka eredmeny = new Kocka();
+                eredmeny.a = a.a+1;
+                eredmeny.b = a.b+1;
+                eredmeny.c = a.c+1;
+                return eredmeny;
+            }
+
+
+            public static Kocka operator --(Kocka a)
+            {
+                Kocka eredmeny = new Kocka();
+                eredmeny.a = a.a-1;
+                eredmeny.b = a.b-1;
+                eredmeny.c = a.c-1;
+                return eredmeny;
+            }
+
         }
 		static void Main(string[] args)
         {
             Kocka i = new Kocka(10, 20, 30);
             Kocka j = new Kocka();
+            i++;
+            j--;
             Console.WriteLine(i.ToString());
             Console.WriteLine(j.ToString());
         }
