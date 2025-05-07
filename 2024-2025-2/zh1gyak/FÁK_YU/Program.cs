@@ -20,7 +20,7 @@ namespace felev2
             adatok = JsonConvert.DeserializeObject<List<Fa>>(forrassor);
 
             foreach (var elem in adatok) {
-                Console.WriteLine(elem.Nev);
+                Console.WriteLine("{0} {1} | {2} {3} {4}",elem.Nev, elem.faj, elem.kormeret, elem.telepules, elem.meres);
             }
         }
 

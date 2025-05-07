@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/bin/Debug/net8.0/8kiralyno
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/bin/Debug/net8.0/8kiralyno.deps.json
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/bin/Debug/net8.0/8kiralyno.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/bin/Debug/net8.0/8kiralyno.dll
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/bin/Debug/net8.0/8kiralyno.pdb
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/8kiralyno.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/8kiralyno.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/8kiralyno.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/8kiralyno.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/8kiralyno.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/8kiralyno.dll
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/refint/8kiralyno.dll
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/8kiralyno.pdb
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/8kiralyno.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/8kiralyno/obj/Debug/net8.0/ref/8kiralyno.dll

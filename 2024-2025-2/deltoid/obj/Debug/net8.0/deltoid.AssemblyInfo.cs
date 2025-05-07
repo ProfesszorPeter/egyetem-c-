@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("deltoid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d60bbff0af15573bea479272ad92e5acef3212")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f2e38af1f255f408b8b093dced2bc93489bb099")]
 [assembly: System.Reflection.AssemblyProductAttribute("deltoid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("deltoid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

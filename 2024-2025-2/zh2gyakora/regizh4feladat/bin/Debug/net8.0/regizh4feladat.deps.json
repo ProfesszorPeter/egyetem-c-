@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "regizh4feladat/1.0.0": {
+        "runtime": {
+          "regizh4feladat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "regizh4feladat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

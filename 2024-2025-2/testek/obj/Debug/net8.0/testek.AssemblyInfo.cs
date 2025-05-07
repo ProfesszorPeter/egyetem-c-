@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45ca8530a793dd7178a6146efcabfef7c23ad2b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1642a055c07ee5fa4591670e6d531c7ed70cdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("testek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

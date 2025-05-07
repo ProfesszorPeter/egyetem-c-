@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("repter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d60bbff0af15573bea479272ad92e5acef3212")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7765e93867125b39a886be4564270c45c61e838e")]
 [assembly: System.Reflection.AssemblyProductAttribute("repter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("repter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

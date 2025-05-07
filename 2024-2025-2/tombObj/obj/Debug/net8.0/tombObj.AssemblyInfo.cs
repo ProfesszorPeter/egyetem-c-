@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tombObj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7765e93867125b39a886be4564270c45c61e838e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f2e38af1f255f408b8b093dced2bc93489bb099")]
 [assembly: System.Reflection.AssemblyProductAttribute("tombObj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tombObj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

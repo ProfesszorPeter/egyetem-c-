@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/bin/Debug/net8.0/regizh4feladat
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/bin/Debug/net8.0/regizh4feladat.deps.json
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/bin/Debug/net8.0/regizh4feladat.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/bin/Debug/net8.0/regizh4feladat.dll
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/bin/Debug/net8.0/regizh4feladat.pdb
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/regizh4feladat.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/regizh4feladat.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/regizh4feladat.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/regizh4feladat.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/regizh4feladat.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/regizh4feladat.dll
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/refint/regizh4feladat.dll
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/regizh4feladat.pdb
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/regizh4feladat.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/zh2gyakora/regizh4feladat/obj/Debug/net8.0/ref/regizh4feladat.dll

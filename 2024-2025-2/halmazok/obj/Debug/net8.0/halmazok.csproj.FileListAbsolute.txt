@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/halmazok/bin/Debug/net8.0/halmazok
+/mnt/c#/egyetem/2024-2025-2/halmazok/bin/Debug/net8.0/halmazok.deps.json
+/mnt/c#/egyetem/2024-2025-2/halmazok/bin/Debug/net8.0/halmazok.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/halmazok/bin/Debug/net8.0/halmazok.dll
+/mnt/c#/egyetem/2024-2025-2/halmazok/bin/Debug/net8.0/halmazok.pdb
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/halmazok.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/halmazok.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/halmazok.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/halmazok.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/halmazok.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/halmazok.dll
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/refint/halmazok.dll
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/halmazok.pdb
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/halmazok.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/halmazok/obj/Debug/net8.0/ref/halmazok.dll

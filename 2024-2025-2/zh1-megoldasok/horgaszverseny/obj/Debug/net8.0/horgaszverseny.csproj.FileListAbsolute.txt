@@ -1,0 +1,15 @@
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/bin/Debug/net8.0/horgaszverseny
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/bin/Debug/net8.0/horgaszverseny.deps.json
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/bin/Debug/net8.0/horgaszverseny.runtimeconfig.json
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/bin/Debug/net8.0/horgaszverseny.dll
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/bin/Debug/net8.0/horgaszverseny.pdb
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/horgaszverseny.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/horgaszverseny.AssemblyInfoInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/horgaszverseny.AssemblyInfo.cs
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/horgaszverseny.csproj.CoreCompileInputs.cache
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/horgaszverseny.sourcelink.json
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/horgaszverseny.dll
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/refint/horgaszverseny.dll
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/horgaszverseny.pdb
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/horgaszverseny.genruntimeconfig.cache
+/mnt/c#/egyetem/2024-2025-2/zh1-megoldasok/horgaszverseny/obj/Debug/net8.0/ref/horgaszverseny.dll
